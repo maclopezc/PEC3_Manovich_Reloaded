@@ -41,7 +41,7 @@ No es solo un espectáculo técnico, sino un testimonio de cómo el software ha 
 
 El resultado es un metamedio, en el que los límites entre realidad física, captura digital y simulación se disuelven completamente, reflejando una nueva especie cultural híbrida, nacida en la intersección entre arte, ciencia y software.
 
-![video https://youtu.be/cWF0AXVcBPg?si=jZUp2_kAnxAipCtK](https://i.imgur.com/oAht9aR.mp4) 
+[![WATCH VIDEO](https://img.youtube.com/vi/cWF0AXVcBPg/hqdefault.jpg)](https://www.youtube.com/watch?v=cWF0AXVcBPg)
 
 ### Bibliografía
 
