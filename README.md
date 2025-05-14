@@ -33,7 +33,7 @@ La película representa un punto de inflexión en el cine digital. El uso intens
 
 James Cameron y su equipo construyeron un ecosistema digital completamente vivo: océanos con físicas realistas, criaturas con inteligencia artificial, cámaras virtuales manejadas como si fueran físicas, y actuaciones humanas traducidas en animaciones hiperrealistas. Este proceso exige una infraestructura técnica colosal, pero también una visión artística que entiende que el cine, en la era del software, ya no es solo imagen en movimiento, sino una composición interactiva y programada de elementos generados por código.
 
-![Representación en primer plano de los efectos de adhesión y tensión superficial de alta fidelidad, tomada de la sesión SIGGRAPH 2019 “Una guía práctica para la simulación de películas delgadas y goteos” ](https://unity.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ffuvbjjlp%2Fproduction%2Faa47a7df35ed4f6d1d8d6a37c2f0b1c2ad324301-2600x1080.jpg&w=3840&q=75)
+![image](https://github.com/user-attachments/assets/1f34ea7f-20a4-487e-85b3-84c42b9bc32d)
 
 Desde la perspectiva de Manovich, el cine ya no puede entenderse como un medio aislado, sino como un punto de conexión dentro de una red de prácticas culturales digitalizadas. En este sentido,  _Avatar: The Way of Water_  es una obra híbrida no solo por su estética, sino por su modo de producción, que toma prestados procesos del diseño de videojuegos (como los motores en tiempo real), la animación 3D, la ingeniería del software y la dirección de actores. 
 
@@ -41,7 +41,7 @@ No es solo un espectáculo técnico, sino un testimonio de cómo el software ha 
 
 El resultado es un metamedio, en el que los límites entre realidad física, captura digital y simulación se disuelven completamente, reflejando una nueva especie cultural híbrida, nacida en la intersección entre arte, ciencia y software.
 
-![hola](https://i.imgur.com/oAht9aR.mp4) 
+![video](https://i.imgur.com/oAht9aR.mp4) 
 
 ### Bibliografía
 
