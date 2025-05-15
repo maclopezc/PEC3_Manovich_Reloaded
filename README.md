@@ -1,7 +1,7 @@
 # PEC3_Manovich_Reloaded
 ---
-## María Carolina López 
-## Grado Multimedia
+María Carolina López 
+Grado Multimedia
 ---
 
 ## Hibridación Digital
