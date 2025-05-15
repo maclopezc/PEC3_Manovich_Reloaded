@@ -1,8 +1,7 @@
 # PEC3_Manovich_Reloaded
----
-María Carolina López 
-Grado Multimedia
----
+
+###### María Carolina López 
+###### Grado Multimedia
 
 ## Hibridación Digital
 > **“La cultura del software se define por su capacidad de mezclar y remezclar técnicas, formas y estructuras de múltiples medios en una misma obra, generando nuevas especies culturales híbridas.”**  
